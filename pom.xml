@@ -6,7 +6,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>petclinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.1</version>
     <name>PetClinic</name>
     <description>Pet Clinic Application</description>
     <packaging>jar</packaging>
