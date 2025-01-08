@@ -10,6 +10,13 @@
     <name>PetClinic</name>
     <description>Pet Clinic Application</description>
     <packaging>jar</packaging>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>a0vefa27ck8my-artifactory-primary-0-releases</name>
+        <url>https://trialojibqc.jfrog.io/artifactory/petclinic-libs-release</url>
+    </repository>
+</distributionManagement>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
